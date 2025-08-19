@@ -1,15 +1,16 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #54fb00;
+    background-image: url("imagens/https://cdn-icons-png.flaticon.com/512/2909/2909922.png");
+    background-size: cover;
+    backgorund-position: center;
+    background-repeat: no-repeat;
     text-align: center;
     padding: 50px;
   }
   
   button {
     padding: 10px 20px;
-    background: url("icons/https://cdn-icons-png.flaticon.com/512/2909/2909922.png") no repeat center;
-    background-size: 20px;
-    padding-left: 30px;
     background-color: #ff0000;
     border: none;
     color: white;
